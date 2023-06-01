@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "请求调页存储管理方式模拟/1.0.0": {
+        "runtime": {
+          "请求调页存储管理方式模拟.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "请求调页存储管理方式模拟/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
